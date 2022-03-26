@@ -4,6 +4,8 @@ public class FirstJavaClass {
 
         System.out.println("Learning github");
 
+        System.out.println("\n>==============<\n");
+
     }
 
 }
